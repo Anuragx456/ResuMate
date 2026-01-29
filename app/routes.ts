@@ -4,6 +4,6 @@ export default [
     index("routes/home.tsx"),
     route('/auth', 'routes/Auth.tsx'),
     route('/upload', 'routes/Upload.tsx'),
-    // route('/resume/:id', 'routes/resume.tsx'),
+    route('/resume/:id', 'routes/Resume.tsx'),
     // route('/wipe', 'routes/wipe.tsx'),
 ] satisfies RouteConfig;
