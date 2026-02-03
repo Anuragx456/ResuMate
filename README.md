@@ -1,4 +1,4 @@
-# 📄 ResuMate
+    # 📄 ResuMate
 
 <div align="center">
 
@@ -166,18 +166,39 @@ ResumeAnalyzer/
 
 Track all your resume submissions and view AI-powered feedback scores at a glance.
 
+![Dashboard](public/images/screenshot-dashboard.png)
+
 ### 📤 Upload Page
+
+Upload your resume with job details for personalized AI analysis.
 
 - Drag & drop PDF resume upload
 - Enter job details (company, title, description)
 - Real-time processing status with animated indicators
 
+![Upload Page](public/images/screenshot-upload.png)
+
 ### 📊 Resume Analysis
 
-- Side-by-side resume preview with feedback
-- ATS compatibility score with improvement tips
-- Detailed breakdowns for content, style, structure, and skills
-- Actionable suggestions marked as ✅ strengths or ⚠️ areas to improve
+Side-by-side view of your resume with comprehensive AI-powered feedback.
+
+**Low Score Example** - Areas that need improvement are clearly highlighted:
+
+![Resume Analysis - Low Score](public/images/screenshot-analysis-low.png)
+
+**High Score Example** - Strong resumes receive positive validation:
+
+![Resume Analysis - High Score](public/images/screenshot-analysis-high.png)
+
+### 📝 Detailed Feedback
+
+Expandable sections with actionable insights for each category:
+
+- ✅ Strengths marked in green
+- ⚠️ Areas to improve marked in yellow/orange
+- Detailed explanations for each suggestion
+
+![Detailed Feedback](public/images/screenshot-feedback.png)
 
 ## 🐳 Deployment
 
